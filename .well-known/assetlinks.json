@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.myapp",
+      "package_name": "com.yoonubac.education",
       "sha256_cert_fingerprints": [
-        "AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99"
+        "9A:70:F2:40:1B:09:60:60:E7:33:09:6C:C1:68:32:34:90:C0:5A:FD:5C:85:9B:DF:01:A5:01:9F:E1:59:17:6D"
       ]
     }
   }
